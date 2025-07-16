@@ -28,7 +28,7 @@ A secure and decentralized Electronic Health Record (EHR) system built using **E
 ![Patient Records](./images/patient-records.png)
 
 ### 🏠 Home Page
-![Home Page](./images/homepage.png)
+![Home Page](./images/home.png)
 
 ### 👨‍⚕️ Doctor Login
 ![Doctor Login](./images/doctor-login.png)
