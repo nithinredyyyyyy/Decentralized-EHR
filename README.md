@@ -25,7 +25,18 @@ A secure and decentralized Electronic Health Record (EHR) system built using **E
 ## 📷 Screenshots
 
 ### 🗂️ Patient Records View
-
 ![Patient Records](./images/patient-records.png)
+
+### 🏠 Home Page
+![Home Page](./images/homepage.png)
+
+### 👨‍⚕️ Doctor Login
+![Doctor Login](./images/doctor-login.png)
+
+### 🔐 Access Control – Grant/Revoke Doctor Access
+![Access Control](./images/access-control.png)
+
+
+
 
 
