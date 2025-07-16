@@ -28,13 +28,13 @@ A secure and decentralized Electronic Health Record (EHR) system built using **E
 ![Patient Records](./patient-records.png)
 
 ### 🏠 Home Page
-![Home Page](./home.png)
+![Home Page](./Home.png)
 
 ### 👨‍⚕️ Doctor Login
 ![Doctor Login](./doctor-login.png)
 
 ### 🔐 Access Control – Grant/Revoke Doctor Access
-![Access Control](./saccess-control.png)
+![Access Control](./access-control.png)
 
 
 
